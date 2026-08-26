@@ -29,7 +29,7 @@ El `*` indica que `miambiente` es el ambiente que estaba activo.
 
 2. Instalar los paquetes
 
-En el proyecto se creó el archivo `requirements.txt`, que contiene los paquetes necesarios para realizar los ejercicios.
+En el proyecto se utiliza e instala el archivo `requirements.txt`, que contiene los paquetes necesarios para realizar los ejercicios.
 
 Los paquetes utilizados fueron:
 
